@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 to test first upload from local to web
 
 this line editted n github.com via edit file
@@ -9,3 +10,8 @@ changed this locally ! 1 line added
 
 added another line after funkybranch2
 >>>>>>> funkybranch1
+=======
+to test first upload from local to web
+
+this line editted n github.com via edit file
+>>>>>>> funkybranch2
